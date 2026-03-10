@@ -9,3 +9,8 @@ This branch will contain the index of all the other ones where i will be conduct
 
 - main -> this one
 - llm-excapde -> unraveling the world of hype for myself.
+
+## References and Resources
+
+- [free-for.dev cool stuff for dev that has free resources](free-for.dev)
+- [groq.com for inference has a free tier](groq.com)
