@@ -12,5 +12,5 @@ This branch will contain the index of all the other ones where i will be conduct
 
 ## References and Resources
 
-- [free-for.dev cool stuff for dev that has free resources](free-for.dev)
-- [groq.com for inference has a free tier](groq.com)
+- [free-for.dev cool stuff for dev that has free resources](https://free-for.dev)
+- [groq.com for inference has a free tier](https://groq.com)
