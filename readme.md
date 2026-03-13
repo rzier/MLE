@@ -12,5 +12,7 @@ This branch will contain the index of all the other ones where i will be conduct
 
 ## References and Resources
 
-- [free-for.dev cool stuff for dev that has free resources](https://free-for.dev)
-- [groq.com for inference has a free tier](https://groq.com)
+- [Resource: free-for.dev cool stuff for dev that has free resources](https://free-for.dev)
+- [Resource: groq.com for inference has a free tier](https://groq.com)
+
+- [Material: Prompt Writting patter and guidelines](https://console.groq.com/docs/prompting/patterns)
